@@ -19,7 +19,7 @@ public class Criptografia {
     public static void main(String[] args) {
         cript= new HashMap<>();
         criptografia = new ArrayList<>();
-
+        //Sincroniza o char e o valor numerico dele
        for (int i = 0; i <alphabet.length ; i++) {
            cript.put(alphabet[i],i);
        }
