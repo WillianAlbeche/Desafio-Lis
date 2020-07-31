@@ -9,7 +9,9 @@ Para se iniciar a tradução, no for mais externo no metodo translate, iremos "d
 O arquivo que vai ser lido deve ser colocado na pasta fonte do projeto(DesafioLis), para que a leitura funcione corretamente.
 Na execução ele irá pedir para digitar o nome do arquivo e o tipo dele EX: SecretMessage.txt, apos digitar, pressione enter e então espere a execução do programa que irá imprimir no terminal a solução( o código foi feito na IDE Intellij).
 
-O resultado impresso é todas as tentativas de chave para a frase em criptografada em questão.
+O resultado impresso é todas as tentativas de chave para a frase em criptografada em questão, basta procurar qual a frase que deseja ser usada.
 
 Considerações finais:
 Foi utilizado ArrayList e HashMap para facilitar a organização de arrays e pesquisa de valores, auxiliando na resolução do problema em si.
+
+Obrigado!!
