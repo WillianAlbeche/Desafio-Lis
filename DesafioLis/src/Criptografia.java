@@ -25,7 +25,7 @@ public class Criptografia {
        }
 
         Scanner in = new Scanner(System.in);
-        System.out.println("Type the name of file");
+        System.out.println("Type the file name");
          // Para leitura de arquivo
         String filePath = Paths.get(in.nextLine()).toAbsolutePath().toString();
         filePath = filePath.replace("src","");
